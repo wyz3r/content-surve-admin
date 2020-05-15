@@ -1,0 +1,179 @@
+{
+  "description": "¿Eres el tipo de macho que sobrevive  a explosiones o el que se queda con la morra",
+  "logo": "",
+  "slug": "que-pelicula-describe-el-tipo-de-macho-eres",
+  "style": "buzz",
+  "title": "¿Qué película describe el tipo de macho eres?",
+  "preguntas": [{
+      "type": "image",
+      "pregunta": "Elige una película que te haya puesto triste",
+      "respuestas": [{
+          "text": "En busca de la felicidad",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/que-pelicula-describe-el-tipo-de-macho-eres/images/en-busca-de-la-felicidad.jpg",
+          "key": "1"
+      }, {
+          "text": "Siempre a tu lado",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/que-pelicula-describe-el-tipo-de-macho-eres/images/siempreatulado.jpeg",
+          "key": "2"
+      }, {
+          "text": " E.T",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/que-pelicula-describe-el-tipo-de-macho-eres/images/et.jpeg",
+          "key": "3"
+      }, {
+          "text": "Up",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/que-pelicula-describe-el-tipo-de-macho-eres/images/movie-scenes-that-make-you-cry-every-damn-time-2-15452-1422989399-13_dblbig.jpg",
+          "key": "4"
+      }, {
+          "text": "Antes de partir",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/que-pelicula-describe-el-tipo-de-macho-eres/images/antes-de-partir.jpg",
+          "key": "5"
+      }]
+  }, {
+      "type": "text",
+      "pregunta": "¿Cuál de éstos te parece un problema serio? ",
+      "respuestas": [{
+          "text": "No poder ver a mi familia",
+          "image": "",
+          "key": "1"
+      }, {
+          "text": "Enojarme con mi novia/esposa/peoresnada",
+          "image": "",
+          "key": "4"
+      }, {
+          "text": "Perder a mi mascota",
+          "image": "",
+          "key": "2"
+      }, {
+          "text": "Una pelea con mi compa",
+          "image": "",
+          "key": "5"
+      }, {
+          "text": "Estar lejos de casa",
+          "image": "",
+          "key": "3"
+      }]
+  }, {
+      "type": "text",
+      "pregunta": "Imagina que tienes el problema anterior, ¿a quién le cuentas primero?",
+      "respuestas": [{
+          "text": "A mis papás/hermanos",
+          "image": "",
+          "key": "1"
+      }, {
+          "text": "A mi compa de confianza",
+          "image": "",
+          "key": "5"
+      }, {
+          "text": "A mi novia/esposa/peoresnada",
+          "image": "",
+          "key": "4"
+      }, {
+          "text": "A mi mascota :( ",
+          "image": "",
+          "key": "2"
+      }, {
+          "text": "Lo publico en FB",
+          "image": "",
+          "key": "3"
+      }]
+  }, {
+      "type": "text",
+      "pregunta": "Los momentos más felices de tu vida ocurrieron...",
+      "respuestas": [{
+          "text": "En el jale",
+          "image": "",
+          "key": "3"
+      }, {
+          "text": "En mi infancia",
+          "image": "",
+          "key": "1"
+      }, {
+          "text": "Con mi novia/esposa/peoresnada",
+          "image": "",
+          "key": "4"
+      }, {
+          "text": "Con mis mascotas",
+          "image": "",
+          "key": "2"
+      }, {
+          "text": "Con mis compas",
+          "image": "",
+          "key": "5"
+      }]
+  }, {
+      "type": "text",
+      "pregunta": "La mejor ocasión para tomarte una cerveza",
+      "respuestas": [{
+          "text": "Una salida con mis compitas",
+          "image": "",
+          "key": "5"
+      }, {
+          "text": "Con mi familia en el estadio",
+          "image": "",
+          "key": "1"
+      }, {
+          "text": "Cualquier cita con mi novia/esposa/peoresnada",
+          "image": "",
+          "key": "4"
+      }, {
+          "text": "Yo solo viendo la tv",
+          "image": "",
+          "key": "2"
+      }, {
+          "text": "Saliendo del jale",
+          "image": "",
+          "key": "3"
+      }]
+  }, {
+      "type": "image",
+      "pregunta": "Elige un meme:",
+      "respuestas": [{
+          "text": "",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/Meme+1.jpg",
+          "key": "1"
+      }, {
+          "text": "",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/meme+2.PNG",
+          "key": "2"
+      }, {
+          "text": "",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/Meme+3.PNG",
+          "key": "3"
+      }, {
+          "text": "",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/MEME+4.jpg",
+          "key": "4"
+      }, {
+          "text": "",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/meme+5.jpg",
+          "key": "5"
+      }]
+  }],
+  "respuestas": {
+      "1": {
+          "name": "Entrenando a papá",
+          "description": "Eres el tipo de macho con el que nadie se metería, rudo y directo. Sin embargo, cuando se trata de proteger a los que quieres, haces todo por resolver las cosas. RESPECT.",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/Entrenando a papá.jpg"
+      },
+      "2": {
+          "name": "Marley y yo",
+          "description": "Eres el tipo de macho de acero que no se conmueve con nada, excepto cachorritos, gatitos y cualquier animal que necesite tu ayuda.  Punto para ti y para la humanidad.",
+          "image": "https://s3-us-west-2.amazonaws.com/adbuzz/multimedia/Marley y yo.jpg"
+      },
+      "3": {
+          "name": "El Rey León",
+          "description": "Eres el tipo de macho que tiene metas propias. \\nComo Simba, amas tu hogar y harías todo para protegerlo y a quienes se encuentran ahí.\\n¡Te queremos de gober ya!",
+          "image": "https://media.giphy.com/media/aAGI2KxxkG2AM/giphy.gif"
+      },
+      "4": {
+          "name": "Estúpido y loco amor",
+          "description": "A muchos les asusta ser el macho romántico, pero a ti no, dominas el campo y sabes perfectamente qué es lo que las mujeres desean. Eres el casanova del grupo y aunque a muchos les cagues, terminas dándoles consejos, ¡más compas como tú!",
+          "image": "https://media.giphy.com/media/oF9e2Ovt0yqLC/giphy.gif"
+      },
+      "5": {
+          "name": "The Hangover",
+          "description": "No sólo eres el rey del pisteo, sino el macho que siempre tiene de su lado a los mejores y más rifados compas. A donde vas tú, tu barrio te respalda.",
+          "image": "https://media.giphy.com/media/13dt1z2lVtChgs/giphy.gif"
+      }
+  }
+}

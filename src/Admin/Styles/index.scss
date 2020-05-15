@@ -1,0 +1,20 @@
+$primary: #e11649;
+$color2:  #70405C; 
+$color3: #67BCB9; 
+$color4: #D9F052;
+$gris: #F5F6FA; //primaryAdmin
+$primaryBlue: #2A5EC9; //color2Admin
+$secondaryBlue: #5188FB; //color3Admin
+$auxiliaryBlue: #AEC7FB; //color4Admin
+$verde: #35CA98; //color5Admin
+
+@import './animate';
+@import './cards';
+@import './admin';
+@import './media';
+@import './buttons';
+@import './steps';
+@import './acordeon';
+@import './forms';
+@import './headerMenu';
+@import './status';

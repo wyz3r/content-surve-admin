@@ -1,0 +1,28 @@
+{
+  "A": {
+    "name": "MAD MEN",
+    "description": "Eres el MAD MEN del contenido, entiendes las redes y el impacto que pueden tener en tu marca. Sabes el tipo de información que debes publicar, no sólo para alcanzar una mayor audiencia, sino para dar a conocer la marca y tener ventas. Te gusta interactuar con la audiencia; es por eso que respondes a la mayoría de los comentarios. \n Vas por buen camino pero puede que necesites un pequeño consejo de expertos para al fin poder sacar tu botella de Macallan 18 que tienes en tu escritorio.",
+    "image": "https://media.giphy.com/media/pZIjL43gnO7du/giphy.gif"
+    
+  },
+  "B": {
+    "name": "13 REASONS WHY",
+    "description": "Sabes perfectamente cómo funcionan las redes sociales y sabes que son un canal para llegar a tu audiencia rápidamente. \n Pero cuidado: no todo son likes y seguidores. Recuerda que Hannah Baker tenía muchos amigos pero el resultado no fue el más alentador.",
+    "image": "https://media.giphy.com/media/3ov9jIbRkVRbpGm6wo/giphy.gif"
+  },
+  "C": {
+    "name": "LA ROSA DE GUADALUPE",
+    "description": "Dominas perfectamente la agenda contextual de tus usuarios. Sabes qué es lo que les preocupa y los hace reír. \n Pero recuerda, ¡es importante balancear lo que la audiencia quiere escuchar con lo que dices de tu marca!",
+    "image": "https://media.giphy.com/media/RqfG4uFQNOD8Q/giphy.gif"
+  },
+  "D": {
+    "name": "MIND HUNTER",
+    "description": "Eres como el agente Holden Ford, amas tu trabajo y sabes qué beneficios de tu marca deben ser comunicados. \n Sigue creando contenido sobre ti y recuerda balancearlo con lo que la audiencia quiere escuchar: contenido relevante.",
+    "image": "https://media.giphy.com/media/l378s3K1AxWX7ZavK/giphy.gif"
+  },
+  "E": {
+    "name": "THE CROWN",
+    "description": "Los medios tradicionales siguen siendo muy importantes y tú lo sabes. \n Puede que aún tengas dudas de la importancia de las redes. Pero créenos: tal vez sea momento de que tengas fe en ellas.",
+    "image": "https://media.giphy.com/media/3oriOiKhERbeDh6MGk/giphy.gif"
+  }
+}

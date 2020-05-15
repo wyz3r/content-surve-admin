@@ -1,0 +1,116 @@
+.media-container {
+  display: flex;
+  flex-direction: column;
+  // .drop-n-prew {
+  //   background: red;
+  // }
+}
+
+  .fake-input {
+    align-items: center;
+  background: #fff;
+  border: 2px solid $auxiliaryBlue;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2%;
+  height: 38px;
+    // border: none;
+    width: 100%;
+    &:-webkit-autofill {
+      -webkit-box-shadow: 0 0 0 30px white inset;
+      box-shadow: 0 0 0 30px white inset;
+    }
+    &:focus {
+      outline:0px;
+    }
+  }
+
+  .fa-backspace {
+    opacity: 1;
+    background: #fff;
+    color: $primaryBlue;
+    cursor: pointer;
+    font-size: 1.3rem;
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    align-self:flex-end;
+    margin-right: 10px;
+    margin-top: -30px;
+    margin-bottom: 15px;
+    z-index: 2;
+
+  }
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+.dropzone {
+  margin: 3% 0;
+  .drop {
+    align-items: center;
+    background: $gris;
+    border: 3px dashed $secondaryBlue;
+    display: flex;
+    flex-direction: column;
+    font-size: 2rem;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 5%;
+    width: 100%;
+    &:hover {
+      border: 3px solid $secondaryBlue;
+      cursor: pointer;
+    } 
+  }
+  i {
+    color: $secondaryBlue;
+    font-size: 3rem;
+    margin-bottom: 15px;
+  }
+  p {
+    font-size: 1rem;
+    margin: 2% auto;
+  }
+  .file-button {
+		background: $secondaryBlue;
+    border-radius: 5px;
+    box-shadow: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 0.8rem;
+    height: 40px;
+		line-height: 40px;
+    margin: 0% auto;
+    text-align: center;
+		width: 120px;
+  }
+}
+
+.preview-file {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  width: 100%;
+  .file {
+    text-align: center;
+    height: 11rem;
+    width: 100%;
+    img{
+      width: 100%;
+      object-fit: contain;
+      height: 100%;
+    }
+    .actions {
+      text-align: right;
+      i {
+      color: $primary;
+      font-size: 1.5rem;
+      }
+    }
+  }
+}
